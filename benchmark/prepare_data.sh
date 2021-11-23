@@ -1,6 +1,6 @@
 # download backbone pretrained model
 wget  http://download.tensorflow.org/models/resnet_v1_50_2016_08_28.tar.gz
-tar zxf /resnet_v1_50_2016_08_28.tar.gz
+tar zxf resnet_v1_50_2016_08_28.tar.gz
 
 pip3.7 install -r requirments.txt
 pip3.7  install cython
